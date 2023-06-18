@@ -7,12 +7,13 @@ This repository contains a Flutter mobile application that allows users to brows
 [![University App Demo Video](https://api.backlinko.com/app/uploads/2018/11/youtube_logo.png)](https://youtu.be/gr-RwdxNelE)
 
 
-## Index/Context of Folders
-	1. Database Folder - Contains Project Databases.
-	2. Database Schema - Contains Database Schema of the Project.
-	3. Demo_Pics       - Contains Pictures of the Project.
-	4. Sample Data Login Details for Admin, House_Owner & Customer - Contains Login Details of Admin,User & House Owner.
-	5. Source Code	 - Contains Source Code of Guest Room Booking Application
+## Index/Context of Github Repo
+	1. Screenshots Folder - Contains University App Screenshots.
+	2. University App (Releases) - Contains University App.
+	3. Demo_video      - Contains Demo video Of University APp.
+	4. univapp Folder - Contains source code of University App.
+	5. UNIVERSITY_APP_( Doumentation By Haries Palaniappan ).pdf - Contains Full Detailed Documentation Of University App
+        6. README.md - Contains Instructions for University App
 
 ## Features
 
