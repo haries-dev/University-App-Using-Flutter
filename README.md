@@ -4,7 +4,7 @@ This repository contains a Flutter mobile application that allows users to brows
 
 ## University App Demo Video
 
-![]([https://github.com/haries-dev/Project-Lucifer/blob/main/FUD.gif](https://github.com/haries-dev/University-App-Using-Flutter/blob/main/demo_video/University_App_Demo_By_HP.mp4))
+![]( https://github.com/haries-dev/University-App-Using-Flutter/blob/main/demo_video/University_App_Demo_By_HP.mp4)
 
 
 ## Features
