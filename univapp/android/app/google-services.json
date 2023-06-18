@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699139991692",
+    "project_id": "univ-app-140e4",
+    "storage_bucket": "univ-app-140e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699139991692:android:779955e00bad65142773a9",
+        "android_client_info": {
+          "package_name": "com.university.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699139991692-515br6l0dpj6eei6f2279sa08rt2tkd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.university.app",
+            "certificate_hash": "a3f3614fdf3d07d91a8b72c90c314f59cf3250a5"
+          }
+        },
+        {
+          "client_id": "699139991692-fhghqtgq4fr62rjcdirtjbgmihiiqjvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJWoERTUbbKRhdXg5aJjZkN-VEL1Si3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699139991692-fhghqtgq4fr62rjcdirtjbgmihiiqjvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
