@@ -2,6 +2,11 @@
 
 This repository contains a Flutter mobile application that allows users to browse and view details of various universities. The app provides a login functionality and utilizes Firebase for user authentication and data storage. The list of universities is fetched from an API and displayed in a list view with a search feature. Clicking on a university item will navigate to a new page that displays detailed information about the selected university.
 
+## University App Demo Video
+
+[![University App - Demo](demo_video/University_App_Demo_By_HP.mp4)](demo_video/University_App_Demo_By_HP.mp4))
+
+
 ## Features
 
 - User authentication with Firebase
@@ -20,13 +25,13 @@ To run the University App locally, make sure you have Flutter and Dart installed
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/university-app.git
+   git clone https://github.com/haries-dev/University-App-Using-Flutter.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd university-app
+   cd University-App-Using-Flutter
    ```
 
 3. Install the required dependencies:
