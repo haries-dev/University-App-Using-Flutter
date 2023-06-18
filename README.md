@@ -6,9 +6,9 @@ This repository contains a Flutter mobile application that allows users to brows
 
 - User authentication with Firebase
 - Login page:
-	Test Account : 
-		Email Address : test@gmail.com
-		Password         : test@123
+	- Test Account : 
+		- Email Address : test@gmail.com
+		- Password      : test@123
 - Home page with a list of universities
 - Search functionality to filter universities
 - University details page to view detailed information
