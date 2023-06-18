@@ -4,8 +4,17 @@ This repository contains a Flutter mobile application that allows users to brows
 
 ## University App Demo Video
 
-![]( https://github.com/haries-dev/University-App-Using-Flutter/blob/main/demo_video/University_App_Demo_By_HP.mp4)
+<video width="640" height="480" controls>
+  <source src="https://github.com/haries-dev/University-App-Using-Flutter/blob/main/demo_video/University_App_Demo_By_HP.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
+## Index/Context of Folders
+	1. Database Folder - Contains Project Databases.
+	2. Database Schema - Contains Database Schema of the Project.
+	3. Demo_Pics       - Contains Pictures of the Project.
+	4. Sample Data Login Details for Admin, House_Owner & Customer - Contains Login Details of Admin,User & House Owner.
+	5. Source Code	 - Contains Source Code of Guest Room Booking Application
 
 ## Features
 
