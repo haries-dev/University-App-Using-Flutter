@@ -2,6 +2,18 @@
 
 This repository contains a Flutter mobile application that allows users to browse and view details of various universities. The app provides a login functionality and utilizes Firebase for user authentication and data storage. The list of universities is fetched from an API and displayed in a list view with a search feature. Clicking on a university item will navigate to a new page that displays detailed information about the selected university.
 
+## University App Demo Video
+
+[![University App Demo Video](https://api.backlinko.com/app/uploads/2018/11/youtube_logo.png)](https://youtu.be/gr-RwdxNelE)
+
+
+## Index/Context of Folders
+	1. Database Folder - Contains Project Databases.
+	2. Database Schema - Contains Database Schema of the Project.
+	3. Demo_Pics       - Contains Pictures of the Project.
+	4. Sample Data Login Details for Admin, House_Owner & Customer - Contains Login Details of Admin,User & House Owner.
+	5. Source Code	 - Contains Source Code of Guest Room Booking Application
+
 ## Features
 
 - User authentication with Firebase
@@ -20,13 +32,13 @@ To run the University App locally, make sure you have Flutter and Dart installed
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/university-app.git
+   git clone https://github.com/haries-dev/University-App-Using-Flutter.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd university-app
+   cd University-App-Using-Flutter
    ```
 
 3. Install the required dependencies:
