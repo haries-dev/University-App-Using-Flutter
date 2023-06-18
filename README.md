@@ -4,10 +4,7 @@ This repository contains a Flutter mobile application that allows users to brows
 
 ## University App Demo Video
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/haries-dev/University-App-Using-Flutter/blob/main/demo_video/University_App_Demo_By_HP.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![University App - Demo](https://img.youtube.com/vi/1YlENfZaQtdMNZoXbdiNuOrnfezshra5m/maxresdefault.jpg)(https://drive.google.com/file/d/1YlENfZaQtdMNZoXbdiNuOrnfezshra5m/view?usp=sharing)
 
 ## Index/Context of Folders
 	1. Database Folder - Contains Project Databases.
