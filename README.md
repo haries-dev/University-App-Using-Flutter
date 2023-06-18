@@ -13,7 +13,7 @@ This repository contains a Flutter mobile application that allows users to brows
 	3. Demo_video      - Contains Demo video Of University App.
 	4. univapp Folder - Contains source code of University App.
 	5. UNIVERSITY_APP_( Doumentation By Haries Palaniappan ).pdf - Contains Full Detailed Documentation Of University App.
-        6. README.md - Contains Instructions for University App.
+    6. README.md - Contains Instructions for University App.
 
 ## Features
 
