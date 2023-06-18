@@ -69,15 +69,12 @@ Contributions to the University App are welcome! If you encounter any issues or 
 
 When contributing, please follow the existing code style and commit message conventions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code, as long as you include the original license in your distribution.
-
 ## Acknowledgements
 
 - Flutter: [https://flutter.dev](https://flutter.dev)
 - Firebase: [https://firebase.google.com](https://firebase.google.com)
 - University API: [http://universities.hipolabs.com](http://universities.hipolabs.com)
+  
 ## Folder Structure
 
 The University App repository follows the standard Flutter project structure:
