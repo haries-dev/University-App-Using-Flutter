@@ -4,7 +4,7 @@ This repository contains a Flutter mobile application that allows users to brows
 
 ## University App Demo Video
 
-[![University App - Demo](demo_video/University_App_Demo_By_HP.mp4)](demo_video/University_App_Demo_By_HP.mp4))
+[![University App - Demo](demo_video/University_App_Demo_By_HP.mp4)](demo_video/University_App_Demo_By_HP.mp4)
 
 
 ## Features
