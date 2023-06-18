@@ -1,5 +1,3 @@
-# University App Using Flutter
- This repository contains the complete documentation and source code for a mobile application developed using Flutter. The application includes a Login page, Home page with a list view of universities, search functionality, and a University Details page. Firebase is used for user authentication and storage. The university data is retrieved from the provided API endpoint. This project serves as a comprehensive example for mobile app development using Flutter or any mobile app development framework. Feel free to explore the code and documentation to learn more about building mobile applications with Flutter and integrating Firebase services.
 # University App – Developed By Haries Palaniappan
 
 This repository contains a Flutter mobile application that allows users to browse and view details of various universities. The app provides a login functionality and utilizes Firebase for user authentication and data storage. The list of universities is fetched from an API and displayed in a list view with a search feature. Clicking on a university item will navigate to a new page that displays detailed information about the selected university.
@@ -8,9 +6,9 @@ This repository contains a Flutter mobile application that allows users to brows
 
 - User authentication with Firebase
 - Login page:
-	Test Account : 
-		Email Address : test@gmail.com
-		Password         : test@123
+	- Test Account : 
+		- Email Address : test@gmail.com
+		- Password      : test@123
 - Home page with a list of universities
 - Search functionality to filter universities
 - University details page to view detailed information
@@ -71,15 +69,12 @@ Contributions to the University App are welcome! If you encounter any issues or 
 
 When contributing, please follow the existing code style and commit message conventions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code, as long as you include the original license in your distribution.
-
 ## Acknowledgements
 
 - Flutter: [https://flutter.dev](https://flutter.dev)
 - Firebase: [https://firebase.google.com](https://firebase.google.com)
 - University API: [http://universities.hipolabs.com](http://universities.hipolabs.com)
+  
 ## Folder Structure
 
 The University App repository follows the standard Flutter project structure:
