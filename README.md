@@ -4,7 +4,8 @@ This repository contains a Flutter mobile application that allows users to brows
 
 ## University App Demo Video
 
-[![University App - Demo](https://api.backlinko.com/app/uploads/2018/11/youtube_logo.png)(https://drive.google.com/file/d/1YlENfZaQtdMNZoXbdiNuOrnfezshra5m/view?usp=sharing)
+[![University App Demo Video](https://api.backlinko.com/app/uploads/2018/11/youtube_logo.png)](https://youtu.be/gr-RwdxNelE)
+
 
 ## Index/Context of Folders
 	1. Database Folder - Contains Project Databases.
